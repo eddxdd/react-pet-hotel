@@ -1,4 +1,3 @@
-Version 1.0.4.
-https://scaffoldhub.io
+This project has been put on hold for now. 
 
-This code can only be used for academic and learning purposes.
+But overall it utilizes react+sql to create a hotel website for pets.
